@@ -17,11 +17,6 @@
             <url>http://repo.loadingchunks.net/content/groups/bukkit/</url>
         </repository>
         
-        <repository>
-            <id>pex-repo</id>
-            <url>http://repo.tehkode.ru/repository/bukkit-plugins/</url>
-        </repository>
-        
     </repositories>
     <dependencies>
         <dependency>
