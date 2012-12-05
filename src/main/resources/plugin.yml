@@ -1,0 +1,8 @@
+name: WitheringPermission
+main: net.loadingchunks.plugins.WitheringPermission.WitheringPermission
+version: 0.2
+
+commands:
+   witherperm:
+      description: Reloads the WitherPermission Config
+      usage: /witherperm reload
